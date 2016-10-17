@@ -5,6 +5,7 @@ public class HelloApp {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello your-full-name");
+		int i = 4;
 
 	}
 
